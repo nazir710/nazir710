@@ -2,7 +2,7 @@
 
 ## I'm a Python Developer 👋
 
-## Connect with me: [(https://t.me/nazir71094)]https://t.me/nazir71094
+## Connect with me: [(https://t.me/nazir71094)](https://t.me/nazir71094)
 
 ## Languages and Tools:
 Python, Django, Django Rest Framework, Pytest, Unittest, PostgreSQL, SQLite, SQLAlchemy, Docker, Gunicorn, Nginx, HTML

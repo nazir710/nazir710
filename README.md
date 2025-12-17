@@ -1,5 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Nazir 👋
 
+## I'm a Python Developer 👋
+
+## Connect with me: [Link](https://t.me/nazir71094)
+
+##Languages and Tools:
+Python, Django, Django Rest Framework, Pytest, Unittest, PostgreSQL, SQLite, SQLAlchemy, Docker, Gunicorn, Nginx, HTML
 <!--
 **nazir710/nazir710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
